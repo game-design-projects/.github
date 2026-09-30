@@ -11,8 +11,8 @@
 <!-- REPOS:START -->
 | Project | About | Play | Updated |
 | --- | --- | --- | --- |
-| [week2](https://github.com/game-design-projects/week2) | ORBIT SNAKE — one-button snake on the shell of a junk-choked planet (Unity, WebGL). Week 2. | [▶ Play](https://stevenli-phoenix-work.itch.io/orbit-snake) | 2026-09-30 |
 | [week4-pcg](https://github.com/game-design-projects/week4-pcg) | Week 4 · PCG — work in progress. |  | 2026-09-30 |
+| [week2](https://github.com/game-design-projects/week2) | ORBIT SNAKE — one-button snake on the shell of a junk-choked planet (Unity, WebGL). Week 2. | [▶ Play](https://stevenli-phoenix-work.itch.io/orbit-snake) | 2026-09-30 |
 | [laya-webgpu](https://github.com/game-design-projects/laya-webgpu) | Laya typed decisions (choice / score / yes-no) running in the browser on WebGPU — itch.io demo | [▶ Play](https://stevenli-phoenix-work.itch.io/laya-webgpu) | 2026-09-30 |
 | [week3](https://github.com/game-design-projects/week3) | Week 3 · CHASS — chess where every piece has a price: earn gold one capture at a time and build your army. | [▶ Play](https://stevenli-phoenix-work.itch.io/chass) | 2026-09-27 |
 | [halcyon-compute](https://github.com/game-design-projects/halcyon-compute) | Real-time datacenter tycoon: 17 chapters, strategic depth, plain HTML/CSS/JS (NYU Game Design) | [▶ Play](https://stevenli-phoenix-work.itch.io/halcyon-compute) | 2026-09-27 |
