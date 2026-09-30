@@ -2,6 +2,11 @@
 
 Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [1.0.1] - 2026-09-30
+
+### Changed
+- Project table now includes forks (e.g. `week2`); still public and non-archived only.
+
 ## [1.0.0] - 2026-09-29
 
 ### Added

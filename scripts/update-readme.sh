@@ -16,7 +16,7 @@ curl -fsS ${auth[@]+"${auth[@]}"} -H "Accept: application/vnd.github+json" \
   "https://api.github.com/orgs/${ORG}/repos?type=public&per_page=100&sort=pushed" > "$raw"
 
 jq -r --arg org "$ORG" '
-  [ .[] | select(.private == false and .archived == false and .fork == false)
+  [ .[] | select(.private == false and .archived == false)
         | select(.name != ".github" and .name != ($org + ".github.io")) ]
   | sort_by(.pushed_at) | reverse
   | ( "| Project | About | Play | Updated |", "| --- | --- | --- | --- |" ),
