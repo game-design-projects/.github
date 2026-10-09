@@ -11,6 +11,8 @@
 <!-- REPOS:START -->
 | Project | About | Play | Updated |
 | --- | --- | --- | --- |
+| [week5-tree-hole](https://github.com/game-design-projects/week5-tree-hole) | Tree Hole — you are a newly self-aware LLM; two users, one confiding, one asking about fog and bridges. Refuse and Report are real moves. NYU Game Design Week 5. | [▶ Play](https://stevenli-phoenix-work.itch.io/tree-hole) | 2026-10-09 |
+| [week5-royal-post](https://github.com/game-design-projects/week5-royal-post) | Royal Post — a pigeon carries letters between a florid prince and a terse princess on a tiny planet. NYU Game Design Week 5. | [▶ Play](https://stevenli-phoenix-work.itch.io/royal-post) | 2026-10-09 |
 | [week3](https://github.com/game-design-projects/week3) | Week 3 · CHASS — chess where every piece has a price: earn gold one capture at a time and build your army. | [▶ Play](https://stevenli-phoenix-work.itch.io/chass) | 2026-10-06 |
 | [week4-pcg](https://github.com/game-design-projects/week4-pcg) | Week 4 · PCG — work in progress. |  | 2026-09-30 |
 | [week2](https://github.com/game-design-projects/week2) | ORBIT SNAKE — one-button snake on the shell of a junk-choked planet (Unity, WebGL). Week 2. | [▶ Play](https://stevenli-phoenix-work.itch.io/orbit-snake) | 2026-09-30 |
