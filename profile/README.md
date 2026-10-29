@@ -11,12 +11,13 @@
 <!-- REPOS:START -->
 | Project | About | Play | Updated |
 | --- | --- | --- | --- |
+| [final-project](https://github.com/game-design-projects/final-project) | Donjon, final project: a Wizardry-style wireframe dungeon crawler whose monsters think with Jev |  | 2026-10-28 |
+| [week4-pcg](https://github.com/game-design-projects/week4-pcg) | Week 4 · PCG · DONJON — a Wizardry-style dungeon roguelike whose gate guard and monsters make their decisions with TypeSafe's Jev model. | [▶ Play](https://aalfalasi.itch.io/donjon) | 2026-10-28 |
 | [week6-data-game](https://github.com/game-design-projects/week6-data-game) | Week 6 data game. | [▶ Play](https://stevenli-phoenix-work.itch.io/week6-data-game) | 2026-10-20 |
 | [week5-tree-hole](https://github.com/game-design-projects/week5-tree-hole) | Tree Hole — you are a newly self-aware LLM; two users, one confiding, one asking about fog and bridges. Refuse and Report are real moves. NYU Game Design Week 5. | [▶ Play](https://stevenli-phoenix-work.itch.io/tree-hole) | 2026-10-13 |
 | [world-execute-me](https://github.com/game-design-projects/world-execute-me) | world.execute(me) — if this chat window were her whole world. You talk to her, you leave, then you are her. NYU Game Design Week 5. | [▶ Play](https://stevenli-phoenix-work.itch.io/world-execute-me) | 2026-10-10 |
 | [week5-royal-post](https://github.com/game-design-projects/week5-royal-post) | Royal Post — a pigeon carries letters between a florid prince and a terse princess on a tiny planet. NYU Game Design Week 5. | [▶ Play](https://stevenli-phoenix-work.itch.io/royal-post) | 2026-10-09 |
 | [week3](https://github.com/game-design-projects/week3) | Week 3 · CHASS — chess where every piece has a price: earn gold one capture at a time and build your army. | [▶ Play](https://stevenli-phoenix-work.itch.io/chass) | 2026-10-06 |
-| [week4-pcg](https://github.com/game-design-projects/week4-pcg) | Week 4 · PCG · DONJON — a Wizardry-style dungeon roguelike whose gate guard and monsters make their decisions with TypeSafe's Jev model. | [▶ Play](https://aalfalasi.itch.io/donjon) | 2026-09-30 |
 | [week2](https://github.com/game-design-projects/week2) | ORBIT SNAKE — one-button snake on the shell of a junk-choked planet (Unity, WebGL). Week 2. | [▶ Play](https://stevenli-phoenix-work.itch.io/orbit-snake) | 2026-09-30 |
 | [laya-webgpu](https://github.com/game-design-projects/laya-webgpu) | Laya typed decisions (choice / score / yes-no) running in the browser on WebGPU — itch.io demo | [▶ Play](https://stevenli-phoenix-work.itch.io/laya-webgpu) | 2026-09-30 |
 | [halcyon-compute](https://github.com/game-design-projects/halcyon-compute) | Real-time datacenter tycoon: 17 chapters, strategic depth, plain HTML/CSS/JS (NYU Game Design) | [▶ Play](https://stevenli-phoenix-work.itch.io/halcyon-compute) | 2026-09-27 |
