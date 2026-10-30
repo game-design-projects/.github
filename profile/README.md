@@ -11,7 +11,7 @@
 <!-- REPOS:START -->
 | Project | About | Play | Updated |
 | --- | --- | --- | --- |
-| [final-project](https://github.com/game-design-projects/final-project) | Donjon, final project: a Wizardry-style wireframe dungeon crawler whose monsters think with Jev |  | 2026-10-28 |
+| [final-project](https://github.com/game-design-projects/final-project) | Donjon, final project: a Wizardry-style wireframe dungeon crawler whose monsters think with Jev |  | 2026-10-30 |
 | [week4-pcg](https://github.com/game-design-projects/week4-pcg) | Week 4 · PCG · DONJON — a Wizardry-style dungeon roguelike whose gate guard and monsters make their decisions with TypeSafe's Jev model. | [▶ Play](https://aalfalasi.itch.io/donjon) | 2026-10-28 |
 | [week6-data-game](https://github.com/game-design-projects/week6-data-game) | Week 6 data game. | [▶ Play](https://stevenli-phoenix-work.itch.io/week6-data-game) | 2026-10-20 |
 | [week5-tree-hole](https://github.com/game-design-projects/week5-tree-hole) | Tree Hole — you are a newly self-aware LLM; two users, one confiding, one asking about fog and bridges. Refuse and Report are real moves. NYU Game Design Week 5. | [▶ Play](https://stevenli-phoenix-work.itch.io/tree-hole) | 2026-10-13 |
